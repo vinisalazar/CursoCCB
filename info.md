@@ -1,4 +1,4 @@
-### Curso de computação científica para biólogos e pesquisadores - informações para participantes.
+### Curso de computação científica - edição Semana da Biologia! -  para biólogos e pesquisadores - informações para participantes.
 
 Olá! Agradecemos seu interesse no nosso curso. Por favor, leia esse documento com atenção para efetuar sua inscrição. Se tiver qualquer dúvida, mande um email para [viniws@gmail.com](mailto:viniws@gmail.com).
 
