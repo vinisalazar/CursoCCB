@@ -15,3 +15,5 @@ Para clonar o repositório na sua máquina, tenha [git](https://git-scm.com/down
 [papers](./papers) contém referências e literatura relevante ao projeto.
 
 [img](./img) contém imagens.
+
+Se você gostou ou utilizou esse repositório, por favor, dê uma estrela! :star:
